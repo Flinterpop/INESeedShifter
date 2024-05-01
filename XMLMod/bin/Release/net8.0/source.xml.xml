@@ -1,0 +1,700 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orbat xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://c4ic.com/Signals">
+  <Author>B. Graham</Author>
+  <DTG>30 1929Z Apr 24</DTG>
+  <Name>LOE2_HermesForgeV0.97</Name>
+  <Version>0.97</Version>
+  <XsdVersion>1.11</XsdVersion>
+  <SubEntities>
+    <Entity>
+      <Callsign xsi:nil="true" />
+      <Description xsi:nil="true" />
+      <EntityName>HERMES_FORGE</EntityName>
+      <EntityType>Unit</EntityType>
+      <IneSeed xsi:nil="true" />
+      <Nationality>CA</Nationality>
+      <PlatformKind xsi:nil="true" />
+      <ServiceAgency>A</ServiceAgency>
+      <SubEntities>
+        <Entity>
+          <Callsign xsi:nil="true" />
+          <Description xsi:nil="true" />
+          <EntityName>CLUSTER1</EntityName>
+          <EntityType>Unit</EntityType>
+          <IneSeed xsi:nil="true" />
+          <Nationality>CA</Nationality>
+          <PlatformKind xsi:nil="true" />
+          <ServiceAgency>A</ServiceAgency>
+          <SubEntities>
+            <Entity>
+              <Callsign>1</Callsign>
+              <Description>Link_Node_1</Description>
+              <EntityName>1_LinkNode</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>10</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>BISON.C3I</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>CLUSTER1-1_LinkNode</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>1</UnitShortName>
+              <URN>5760108</URN>
+            </Entity>
+            <Entity>
+              <Callsign>1A</Callsign>
+              <Description>Staff_Node_OPS</Description>
+              <EntityName>1A_SN1-1</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>11</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>BISON.C3I</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>CLUSTER1-1A_SN1-1</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>1A</UnitShortName>
+              <URN>5760109</URN>
+            </Entity>
+            <Entity>
+              <Callsign>1B</Callsign>
+              <Description>Staff_Node_FSCC</Description>
+              <EntityName>1B_FSCC</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>12</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>BISON.C3I</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>CLUSTER1-1B_FSCC</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>1B</UnitShortName>
+              <URN>5760110</URN>
+            </Entity>
+            <Entity>
+              <Callsign>1C</Callsign>
+              <Description>Staff_Node_1C</Description>
+              <EntityName>1C_SN1-3</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>13</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>TAPV</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>CLUSTER1-1C_SN1-3</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>1C</UnitShortName>
+              <URN>5760111</URN>
+            </Entity>
+            <Entity>
+              <Callsign>1D</Callsign>
+              <Description>Staff_Node_ESCC</Description>
+              <EntityName>1D_ESCC</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>14</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>LAV6.CP</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>CLUSTER1-1D_ESCC</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>1D</UnitShortName>
+              <URN>5760112</URN>
+            </Entity>
+            <Entity>
+              <Callsign>39B</Callsign>
+              <Description xsi:nil="true" />
+              <EntityName>39B_AltFSCCforFATES</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>15</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>BISON.C3I</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>CLUSTER1-39B_AltFSCCforFATES</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>39B</UnitShortName>
+              <URN>5760113</URN>
+            </Entity>
+            <Entity>
+              <Callsign>1E</Callsign>
+              <Description>Cluster1_Stores</Description>
+              <EntityName>1E_NodeStores1</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>16</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>MSVS.LHS</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEV------CAG</SymbolCode2525>
+              <UnitLongName>CLUSTER1-1E_NodeStores1</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>1E</UnitShortName>
+              <URN>5760114</URN>
+            </Entity>
+            <Entity>
+              <Callsign>1F</Callsign>
+              <Description>Staff_Spare1</Description>
+              <EntityName>1F_StaffSpare</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>17</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>CLUSTER1-1F_StaffSpare</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>1F</UnitShortName>
+              <URN>5760115</URN>
+            </Entity>
+            <Entity>
+              <Callsign>1G</Callsign>
+              <Description>Staff_Spare2</Description>
+              <EntityName>1G_StaffSpare</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>18</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>CLUSTER1-1G_StaffSpare</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>1G</UnitShortName>
+              <URN>5760116</URN>
+            </Entity>
+          </SubEntities>
+          <SymbolCode2525>SFGPUUS----DCAG</SymbolCode2525>
+          <UnitLongName>CLUSTER1</UnitLongName>
+          <UnitName>2SIGS</UnitName>
+          <URN>5760107</URN>
+        </Entity>
+        <Entity>
+          <Callsign>I3</Callsign>
+          <Description xsi:nil="true" />
+          <EntityName>CLUSTER2</EntityName>
+          <EntityType>Unit</EntityType>
+          <IneSeed xsi:nil="true" />
+          <Nationality>CA</Nationality>
+          <PlatformKind xsi:nil="true" />
+          <ServiceAgency>A</ServiceAgency>
+          <SubEntities>
+            <Entity>
+              <Callsign>2</Callsign>
+              <Description>Link_Node_2</Description>
+              <EntityName>2_LinkNode</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>19</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>BISON.C3I</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>CLUSTER2-2_LinkNode</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>2</UnitShortName>
+              <URN>5760118</URN>
+            </Entity>
+            <Entity>
+              <Callsign>2A</Callsign>
+              <Description>Staff_Node_EWCC</Description>
+              <EntityName>2A_EWCC</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>20</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>CLUSTER2-2A_EWCC</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>2A</UnitShortName>
+              <URN>5760119</URN>
+            </Entity>
+            <Entity>
+              <Callsign>2B</Callsign>
+              <Description>Staff_Node_2B</Description>
+              <EntityName>2B_SN2-2</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>21</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>CLUSTER2-2B_SN2-2</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>2B</UnitShortName>
+              <URN>5760120</URN>
+            </Entity>
+            <Entity>
+              <Callsign>2C</Callsign>
+              <Description>Staff_Node_ADCC</Description>
+              <EntityName>2C_ASCC</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>22</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>MSVS.LHS</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEV------CAG</SymbolCode2525>
+              <UnitLongName>CLUSTER2-2C_ASCC</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>2C</UnitShortName>
+              <URN>5760121</URN>
+            </Entity>
+            <Entity>
+              <Callsign>2D</Callsign>
+              <Description>Staff_Node_2D</Description>
+              <EntityName>2D_LO</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>23</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>MSVS.LHS</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEV------CAG</SymbolCode2525>
+              <UnitLongName>CLUSTER2-2D_LO</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>2D</UnitShortName>
+              <URN>5760122</URN>
+            </Entity>
+            <Entity>
+              <Callsign>2E</Callsign>
+              <Description>Cluster2_Stores</Description>
+              <EntityName>2E_NodeStores2</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>24</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>MSVS.LHS</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEV------CAG</SymbolCode2525>
+              <UnitLongName>CLUSTER2-2E_NodeStores2</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>2E</UnitShortName>
+              <URN>5760123</URN>
+            </Entity>
+            <Entity>
+              <Callsign>2F</Callsign>
+              <Description>Staff_Spare1</Description>
+              <EntityName>2F_StaffSpare</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>25</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>CLUSTER2-2F_StaffSpare</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>2F</UnitShortName>
+              <URN>5760124</URN>
+            </Entity>
+            <Entity>
+              <Callsign>2G</Callsign>
+              <Description>Staff_Spare2</Description>
+              <EntityName>2G_StaffSpare</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>26</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>CLUSTER2-2G_StaffSpare</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>2G</UnitShortName>
+              <URN>5760125</URN>
+            </Entity>
+          </SubEntities>
+          <SymbolCode2525>SFGPUUS----DCAG</SymbolCode2525>
+          <UnitLongName>CLUSTER2</UnitLongName>
+          <UnitName>2SIGS</UnitName>
+          <UnitShortName>I3</UnitShortName>
+          <URN>5760117</URN>
+        </Entity>
+        <Entity>
+          <Callsign>I1</Callsign>
+          <Description xsi:nil="true" />
+          <EntityName>CP</EntityName>
+          <EntityType>Unit</EntityType>
+          <IneSeed xsi:nil="true" />
+          <Nationality>CA</Nationality>
+          <PlatformKind xsi:nil="true" />
+          <ServiceAgency>A</ServiceAgency>
+          <SubEntities>
+            <Entity>
+              <Callsign>0</Callsign>
+              <Description>SHQ_NOC</Description>
+              <EntityName>0_H119</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>27</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>CP-0_H119</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>0</UnitShortName>
+              <URN>5760127</URN>
+            </Entity>
+            <Entity>
+              <Callsign>10</Callsign>
+              <Description>SHQ_NOC</Description>
+              <EntityName>10_H119</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>28</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>CP-10_H119</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>10</UnitShortName>
+              <URN>5760128</URN>
+            </Entity>
+            <Entity>
+              <Callsign>0C</Callsign>
+              <Description>NOC</Description>
+              <EntityName>0C_NOC</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>29</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>CP-0C_NOC</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>0C</UnitShortName>
+              <URN>5760129</URN>
+            </Entity>
+            <Entity>
+              <Callsign>99</Callsign>
+              <Description>99TAC</Description>
+              <EntityName>99_TAC</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>30</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>LAV6.CP</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>CP-99_TAC</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>99</UnitShortName>
+              <URN>5760130</URN>
+            </Entity>
+            <Entity>
+              <Callsign>9B1A</Callsign>
+              <Description>RRB</Description>
+              <EntityName>9B1A_RRB</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>31</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>BISON.C3I</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>CP-9B1A_RRB</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>9B1A</UnitShortName>
+              <URN>5760131</URN>
+            </Entity>
+            <Entity>
+              <Callsign>9B2A</Callsign>
+              <Description>RadPark</Description>
+              <EntityName>9B2A_DRP_LN</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>32</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>LSVW</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>CP-9B2A_DRP_LN</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>9B2A</UnitShortName>
+              <URN>5760132</URN>
+            </Entity>
+            <Entity>
+              <Callsign>9B2B</Callsign>
+              <Description xsi:nil="true" />
+              <EntityName>9B3A_DRP_LN</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>33</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>LSVW</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>CP-9B3A_DRP_LN</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>9B2B</UnitShortName>
+              <URN>5760133</URN>
+            </Entity>
+          </SubEntities>
+          <SymbolCode2525>SFGPUUS----ECAG</SymbolCode2525>
+          <UnitLongName>CP</UnitLongName>
+          <UnitName>2SIGS</UnitName>
+          <UnitShortName>I1</UnitShortName>
+          <URN>5760126</URN>
+        </Entity>
+        <Entity>
+          <Callsign xsi:nil="true" />
+          <Description xsi:nil="true" />
+          <EntityName>SUPPORT</EntityName>
+          <EntityType>Unit</EntityType>
+          <IneSeed xsi:nil="true" />
+          <Nationality>CA</Nationality>
+          <PlatformKind xsi:nil="true" />
+          <ServiceAgency>A</ServiceAgency>
+          <SubEntities>
+            <Entity>
+              <Callsign>8</Callsign>
+              <Description>SpTp</Description>
+              <EntityName>8_SpTp</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>34</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>SUPPORT-8_SpTp</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>8</UnitShortName>
+              <URN>5760135</URN>
+            </Entity>
+            <Entity>
+              <Callsign>46</Callsign>
+              <Description>GEO</Description>
+              <EntityName>46_GEO</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>35</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>SUPPORT-46_GEO</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>46</UnitShortName>
+              <URN>5760136</URN>
+            </Entity>
+            <Entity>
+              <Callsign>8A</Callsign>
+              <Description>SupplyTruck</Description>
+              <EntityName>8A_SupplyTruck</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>36</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>SUPPORT-8A_SupplyTruck</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>8A</UnitShortName>
+              <URN>5760137</URN>
+            </Entity>
+            <Entity>
+              <Callsign>8D</Callsign>
+              <Description>Bus_Industry</Description>
+              <EntityName>8D_BusIndustry</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>37</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVUB----CAG</SymbolCode2525>
+              <UnitLongName>SUPPORT-8D_BusIndustry</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>8D</UnitShortName>
+              <URN>5760138</URN>
+            </Entity>
+            <Entity>
+              <Callsign>46A</Callsign>
+              <Description>SHQ_46A</Description>
+              <EntityName>46A_SHQ</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>38</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>SUPPORT-46A_SHQ</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>46A</UnitShortName>
+              <URN>5760139</URN>
+            </Entity>
+            <Entity>
+              <Callsign>46B</Callsign>
+              <Description>SHQ_46B</Description>
+              <EntityName>46B_SHQ</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>39</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>WTRUCKTSM.CP.TSMX2VTSR</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVU-----CAG</SymbolCode2525>
+              <UnitLongName>SUPPORT-46B_SHQ</UnitLongName>
+              <UnitName>2SIGS</UnitName>
+              <UnitShortName>46B</UnitShortName>
+              <URN>5760140</URN>
+            </Entity>
+          </SubEntities>
+          <SymbolCode2525>SFGPUSS----CCAG</SymbolCode2525>
+          <UnitLongName>SUPPORT</UnitLongName>
+          <UnitName>2SIGS</UnitName>
+          <URN>5760134</URN>
+        </Entity>
+        <Entity>
+          <Callsign xsi:nil="true" />
+          <Description xsi:nil="true" />
+          <EntityName>OPFOR_3PL</EntityName>
+          <EntityType>Unit</EntityType>
+          <IneSeed xsi:nil="true" />
+          <Nationality>CA</Nationality>
+          <PlatformKind xsi:nil="true" />
+          <ServiceAgency>A</ServiceAgency>
+          <SubEntities>
+            <Entity>
+              <Callsign>31</Callsign>
+              <Description>PL_Comd</Description>
+              <EntityName>31</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>40</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>LAV6.CP</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>OPFOR_3PL-31</UnitLongName>
+              <UnitName>1RCR</UnitName>
+              <UnitShortName>31</UnitShortName>
+              <URN>5760142</URN>
+            </Entity>
+            <Entity>
+              <Callsign>31A</Callsign>
+              <Description>A_Sect</Description>
+              <EntityName>31A</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>41</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>LAV6.ISC</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>OPFOR_3PL-31A</UnitLongName>
+              <UnitName>1RCR</UnitName>
+              <UnitShortName>31A</UnitShortName>
+              <URN>5760143</URN>
+            </Entity>
+            <Entity>
+              <Callsign>31B</Callsign>
+              <Description>B_Sect</Description>
+              <EntityName>31B</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>42</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>LAV6.ISC</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>OPFOR_3PL-31B</UnitLongName>
+              <UnitName>1RCR</UnitName>
+              <UnitShortName>31B</UnitShortName>
+              <URN>5760144</URN>
+            </Entity>
+            <Entity>
+              <Callsign>31C</Callsign>
+              <Description>C_Sect</Description>
+              <EntityName>31C</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>43</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>LAV6.ISC</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>OPFOR_3PL-31C</UnitLongName>
+              <UnitName>1RCR</UnitName>
+              <UnitShortName>31C</UnitShortName>
+              <URN>5760145</URN>
+            </Entity>
+          </SubEntities>
+          <SymbolCode2525>SFGPUCIZ---DCAG</SymbolCode2525>
+          <UnitLongName>OPFOR_3PL</UnitLongName>
+          <UnitName>1RCR</UnitName>
+          <URN>5760141</URN>
+        </Entity>
+        <Entity>
+          <Callsign xsi:nil="true" />
+          <Description xsi:nil="true" />
+          <EntityName>F-Battery</EntityName>
+          <EntityType>Unit</EntityType>
+          <IneSeed xsi:nil="true" />
+          <Nationality>CA</Nationality>
+          <PlatformKind xsi:nil="true" />
+          <ServiceAgency>A</ServiceAgency>
+          <SubEntities>
+            <Entity>
+              <Callsign>G3</Callsign>
+              <Description xsi:nil="true" />
+              <EntityName>BattCP</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>44</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>BISON.C3I</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>F-Battery-BattCP</UnitLongName>
+              <UnitName>FBATTERY</UnitName>
+              <UnitShortName>G3</UnitShortName>
+              <URN>5760147</URN>
+            </Entity>
+            <Entity>
+              <Callsign>G31</Callsign>
+              <Description xsi:nil="true" />
+              <EntityName>FOO</EntityName>
+              <EntityType>Platform</EntityType>
+              <IneSeed>45</IneSeed>
+              <Nationality>CA</Nationality>
+              <PlatformKind>LAV6.OPV</PlatformKind>
+              <ServiceAgency>A</ServiceAgency>
+              <SubEntities />
+              <SymbolCode2525>SFGPEVAL--MPCAG</SymbolCode2525>
+              <UnitLongName>F-Battery-FOO</UnitLongName>
+              <UnitName>FBATTERY</UnitName>
+              <UnitShortName>G31</UnitShortName>
+              <URN>5760148</URN>
+            </Entity>
+          </SubEntities>
+          <SymbolCode2525>SFGPUCF----ECAG</SymbolCode2525>
+          <UnitLongName>F-Battery</UnitLongName>
+          <UnitName>2RCHA</UnitName>
+          <URN>5760146</URN>
+        </Entity>
+      </SubEntities>
+      <SymbolCode2525>SFGPUCIZ--AHCAG</SymbolCode2525>
+      <UnitLongName>HERMES_FORGE</UnitLongName>
+      <UnitName>2CMBG</UnitName>
+      <URN>5760106</URN>
+    </Entity>
+  </SubEntities>
+</Orbat>

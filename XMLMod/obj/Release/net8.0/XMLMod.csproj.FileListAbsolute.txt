@@ -1,0 +1,14 @@
+C:\Users\Brad\source\repos\XMLMod\XMLMod\bin\Release\net8.0\XMLMod.exe
+C:\Users\Brad\source\repos\XMLMod\XMLMod\bin\Release\net8.0\XMLMod.deps.json
+C:\Users\Brad\source\repos\XMLMod\XMLMod\bin\Release\net8.0\XMLMod.runtimeconfig.json
+C:\Users\Brad\source\repos\XMLMod\XMLMod\bin\Release\net8.0\XMLMod.dll
+C:\Users\Brad\source\repos\XMLMod\XMLMod\bin\Release\net8.0\XMLMod.pdb
+C:\Users\Brad\source\repos\XMLMod\XMLMod\obj\Release\net8.0\XMLMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brad\source\repos\XMLMod\XMLMod\obj\Release\net8.0\XMLMod.AssemblyInfoInputs.cache
+C:\Users\Brad\source\repos\XMLMod\XMLMod\obj\Release\net8.0\XMLMod.AssemblyInfo.cs
+C:\Users\Brad\source\repos\XMLMod\XMLMod\obj\Release\net8.0\XMLMod.csproj.CoreCompileInputs.cache
+C:\Users\Brad\source\repos\XMLMod\XMLMod\obj\Release\net8.0\XMLMod.dll
+C:\Users\Brad\source\repos\XMLMod\XMLMod\obj\Release\net8.0\refint\XMLMod.dll
+C:\Users\Brad\source\repos\XMLMod\XMLMod\obj\Release\net8.0\XMLMod.pdb
+C:\Users\Brad\source\repos\XMLMod\XMLMod\obj\Release\net8.0\XMLMod.genruntimeconfig.cache
+C:\Users\Brad\source\repos\XMLMod\XMLMod\obj\Release\net8.0\ref\XMLMod.dll

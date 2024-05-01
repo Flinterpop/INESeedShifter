@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XMLMod": {
+      "commandName": "Project",
+      "commandLineArgs": "source.xml\r\n"
+    }
+  }
+}
