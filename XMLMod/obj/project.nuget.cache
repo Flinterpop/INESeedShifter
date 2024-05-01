@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c83G9P4zu/x7Gxc78AmeZw3d9SafpGW8ykWmKUGyBunPf1cnpAhYQN8sjDJhjFQ+1iNP6mfMva5S2SzM2mWs9Q==",
+  "dgSpecHash": "A1lxz51cJwhAjy4059RJhI7mU7OXFetXm81uGqDjRo1F6xVE9z/yXBHCvbvtmxCL6KEl6X7ZlPRfQDpNqcsEGQ==",
   "success": true,
-  "projectFilePath": "C:\\source\\gitinternal\\XMLMod\\XMLMod\\INESeedShifter.csproj",
+  "projectFilePath": "C:\\source\\gitinternal\\INESeedShifter\\XMLMod\\INESeedShifter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

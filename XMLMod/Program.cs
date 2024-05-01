@@ -37,7 +37,7 @@ for (int i = 0; i < nodes.Count; i++)
 
     if (val>=100)
     {
-        int newVal = val - 90;
+        int newVal = val - 75;
         nodes[i].InnerXml = newVal.ToString();
 
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("INESeedShifter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5156cb5db8a7303fd14ab2044ceb49ef9b897c16")]
 [assembly: System.Reflection.AssemblyProductAttribute("INESeedShifter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("INESeedShifter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

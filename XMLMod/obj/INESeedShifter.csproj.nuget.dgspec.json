@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\gitinternal\\XMLMod\\XMLMod\\INESeedShifter.csproj": {}
+    "C:\\source\\gitinternal\\INESeedShifter\\XMLMod\\INESeedShifter.csproj": {}
   },
   "projects": {
-    "C:\\source\\gitinternal\\XMLMod\\XMLMod\\INESeedShifter.csproj": {
+    "C:\\source\\gitinternal\\INESeedShifter\\XMLMod\\INESeedShifter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\gitinternal\\XMLMod\\XMLMod\\INESeedShifter.csproj",
+        "projectUniqueName": "C:\\source\\gitinternal\\INESeedShifter\\XMLMod\\INESeedShifter.csproj",
         "projectName": "INESeedShifter",
-        "projectPath": "C:\\source\\gitinternal\\XMLMod\\XMLMod\\INESeedShifter.csproj",
+        "projectPath": "C:\\source\\gitinternal\\INESeedShifter\\XMLMod\\INESeedShifter.csproj",
         "packagesPath": "C:\\Users\\Brad\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\gitinternal\\XMLMod\\XMLMod\\obj\\",
+        "outputPath": "C:\\source\\gitinternal\\INESeedShifter\\XMLMod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brad\\AppData\\Roaming\\NuGet\\NuGet.Config",
